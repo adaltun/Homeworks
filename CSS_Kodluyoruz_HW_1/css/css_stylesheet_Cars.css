@@ -1,0 +1,46 @@
+#navigation
+{
+    text-align: center;
+}
+
+h1,h2
+{
+    text-align: center;
+    list-style-position: inside;
+    color: red;
+}
+
+p
+{
+    text-align: center;
+}
+
+ol
+{
+    display: flex;
+    flex-direction: column;
+    list-style-position: inside;
+
+    justify-content: left;
+    align-content: center;
+
+    text-align: center;
+}
+
+ul
+{
+    display: flex;
+    flex-direction: column;
+    list-style-position: inside;
+    
+    justify-content: left;
+    align-items: center;
+}
+
+li
+{
+    float: left;
+    min-width:100px; 
+}
+
+
